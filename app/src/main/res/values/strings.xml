@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Prueba Fragmentos</string>
+    <string name="mens_fragment1">Hola mundo!!!</string>
+    <string name="mens_fragment2">Adiós mundo!!!</string>
+</resources>
